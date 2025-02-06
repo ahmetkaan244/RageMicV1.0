@@ -1,0 +1,6 @@
+pyaudio
+numpy
+tkinter
+keyboard
+threading
+queue
